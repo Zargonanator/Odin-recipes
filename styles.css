@@ -1,0 +1,19 @@
+.title,
+.link  {
+color: orange;
+}
+.background {
+    background-color: blue;
+}
+.titletwo {
+    color: hsla(0, 93%, 17%, 0.767);
+    font-family: Brush Script MT;
+}
+.backgroundtwo {
+    background-color: tan;
+}
+.text {
+    color: wheat;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
