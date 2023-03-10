@@ -1,3 +1,5 @@
+/* cccookies.html*/ 
+
 .title,
 .link  {
 color: orange;
@@ -16,4 +18,18 @@ color: orange;
     color: wheat;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 20px;
+}
+/* lemonpseed.html */
+
+div {
+    color: rgb(12, 12, 12);
+    font-size: 18px;
+    font-family: fantasy, sans-serif
+}
+.backgroundlp {
+    background-color: lemonchiffon;
+    font-weight: 100;
+}
+.textlp {
+    font-family: Apple Chancery, sans-serif;
 }
